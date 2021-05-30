@@ -31,8 +31,18 @@
     color: white;
 }
 
+.bleu {
+    color: #00232A;
+}
+
 .thiccFont {
     font-weight: bold;
+    font-size: 56px;
+}
+
+.subFont {
+    font-weight: bold;
+    font-size: 24px;
 }
 
 .allBtn:hover {
@@ -41,6 +51,18 @@
 }
 
 .listFont {
-    font-size: 20px;
+    font-size: 15px;
 }
 
+.placeHolderText {
+    font-size: 16px;
+    ;
+}
+
+.buttonText {
+    font-size: 13px;
+}
+
+.radius {
+    border-radius: 5px;
+}
